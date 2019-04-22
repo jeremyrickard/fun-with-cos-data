@@ -25,6 +25,7 @@
     "typescript": "~3.1.0"
   },
   "dependencies": {
-    "soda-js": "^0.2.3"
+    "soda-js": "^0.2.3",
+    "mime": ">=1.4.1"
   }
 }
